@@ -1,4 +1,4 @@
-### Hi there I'm Hersan(https://github.com/HersanKuang/HersanKuang)👋
+### Hi there I'm [Hersan](https://github.com/HersanKuang/HersanKuang) 👋
 
 <!--
 **HersanKuang/HersanKuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
