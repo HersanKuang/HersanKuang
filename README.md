@@ -1,4 +1,4 @@
-### Hi guys I'm [Hersan](https://github.com/HersanKuang/HersanKuang) 👋
+### Hi guys, I'm [Hersan](https://github.com/HersanKuang/HersanKuang) 👋
 
 ✨I'm a student from China. I love coding.
 
