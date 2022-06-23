@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 
 <div>
-  <strong font-size="24px">My </strong><img align="center" src="https://profile-counter.glitch.me/HersanKuang/count.svg" /><strong font-size="24px"> visitor</strong>
+  <strong>My </strong><img align="center" src="https://profile-counter.glitch.me/HersanKuang/count.svg" /><strong> visitor</strong>
 </div>
-
+</ br>
 <a href="https://github.com/HersanKuang">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=HersanKuang&show_icons=true&theme=tokyonight" />
 </a>
