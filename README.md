@@ -1,4 +1,4 @@
-<h3 margin-bottom="10px">Hi guys </h3>👋
+<h3 margin-bottom="10px">Hi guys 👋</h3>
 ### <div align="left">I'm [Hersan](https://github.com/HersanKuang/HersanKuang), a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
 <br/>
 
