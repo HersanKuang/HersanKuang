@@ -35,7 +35,7 @@
 </p>
 <br/>  
 
-<a href="https://github.com/HersanKuang">
+<a href="#">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=HersanKuang&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/HersanKuang">
