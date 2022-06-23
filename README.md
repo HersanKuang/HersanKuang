@@ -14,9 +14,9 @@
 </div>  
 <br/>
 
-<div align="left">
+<!-- <div align="left">
   <strong>My </strong><img align="center" src="https://profile-counter.glitch.me/HersanKuang/count.svg" /><strong> visitor</strong>
-</div>
+</div> -->
 
 ## :dart: Some Tools I Use
 <p align="left">
