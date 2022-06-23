@@ -6,7 +6,7 @@
 <br/>  
 
 
-## :nut_and_bolt: Some Tools I Use
+## :dart: Some Tools I Use
 
 <p align="left">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/></code>
@@ -23,9 +23,7 @@
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/HersanKuang" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
