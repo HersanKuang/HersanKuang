@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 <div>
   <strong>My </strong><img align="center" src="https://profile-counter.glitch.me/HersanKuang/count.svg" /><strong> visitor</strong>
+  <div height="20px"></div>
 </div>
 
 <a href="https://github.com/HersanKuang">
