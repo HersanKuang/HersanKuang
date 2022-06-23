@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- **My** ![Visitor Count](https://profile-counter.glitch.me/HersanKuang/count.svg) **visitor**
 -->
 
-**My** ![Visitor Count](https://profile-counter.glitch.me/HersanKuang/count.svg) **visitor**
 
 <div>
   <strong>My </strong><img align="center" src="https://profile-counter.glitch.me/HersanKuang/count.svg" /><strong> visitor</strong>
