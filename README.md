@@ -36,11 +36,9 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
-## Github Stats  
 <a href="https://github.com/HersanKuang">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=HersanKuang&show_icons=true&theme=tokyonight" />
 </a>
@@ -50,7 +48,6 @@
 
 <br/>
 
-## Github Visitor
 <div>
   <strong>My </strong><img align="center" src="https://profile-counter.glitch.me/HersanKuang/count.svg" /><strong> visitor</strong>
 </div>
