@@ -14,6 +14,7 @@
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="25"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/mysql-original.svg" height="25"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/linux-original.svg" height="25"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/git-original.svg" height="25"/></code>
