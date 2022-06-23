@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
-  
+
 
 ### <div align="center">I'm Hersan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
@@ -76,8 +73,7 @@
 <br/>
 
 ## Github Visitor
-<br/>
-
 <div>
   <strong>My </strong><img align="center" src="https://profile-counter.glitch.me/HersanKuang/count.svg" /><strong> visitor</strong>
 </div>
+<br/>
