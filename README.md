@@ -1,9 +1,12 @@
 ### Hi guys 👋
 ### <div align="left">I'm [Hersan](https://github.com/HersanKuang/HersanKuang), a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
-  
 
-<br/>  
+<br/>
 
+<div align="left">
+  <strong>My </strong><img align="center" src="https://profile-counter.glitch.me/HersanKuang/count.svg" /><strong> visitor</strong>
+</div>
+<br/>
 
 ## :dart: Some Tools I Use
 
@@ -43,9 +46,4 @@
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HersanKuang&layout=compact&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </a>
 
-<br/>
-
-<div>
-  <strong>My </strong><img align="center" src="https://profile-counter.glitch.me/HersanKuang/count.svg" /><strong> visitor</strong>
-</div>
 <br/>
