@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 **My** ![Visitor Count](https://profile-counter.glitch.me/HersanKuang/count.svg) **visitor**
 
 <div>
-  <strong>My</strong><img align="center" src="https://profile-counter.glitch.me/HersanKuang/count.svg" /><strong>visitor</strong>
+  <strong>My </strong><img align="center" src="https://profile-counter.glitch.me/HersanKuang/count.svg" /><strong> visitor</strong>
 </div>
 
 <a href="https://github.com/HersanKuang">
