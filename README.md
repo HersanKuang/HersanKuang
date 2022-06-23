@@ -1,5 +1,5 @@
-#### Hi guys 👋
-## <div align="left">I'm [Hersan](https://github.com/HersanKuang/HersanKuang), a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+#### Hi guys, I'm [Hersan](https://github.com/HersanKuang/HersanKuang) 👋
+## <div align="left">I am a full-time front-end developer 👨‍💻 working from 2022 🚀</div>  
 <br/>
 
 <div align="left">
