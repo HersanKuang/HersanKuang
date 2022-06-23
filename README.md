@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div height="40px" line-height="20px">My</div> ![Visitor Count](https://profile-counter.glitch.me/HersanKuang/count.svg) <h2>visitor</h2>
+<span height="40px" line-height="20px">My</span> ![Visitor Count](https://profile-counter.glitch.me/HersanKuang/count.svg) <h2>visitor</h2>
 
 <a href="https://github.com/HersanKuang">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=HersanKuang&show_icons=true&theme=tokyonight" />
