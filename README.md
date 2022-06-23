@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 
 <div>
-  <strong>My </strong><img align="center" src="https://profile-counter.glitch.me/HersanKuang/count.svg" /><strong> visitor</strong>
-  <div height="20px"></div>
+  <strong font-size="16px">My </strong><img align="center" src="https://profile-counter.glitch.me/HersanKuang/count.svg" /><strong font-size="16px"> visitor</strong>
+  </br>
 </div>
 
 <a href="https://github.com/HersanKuang">
