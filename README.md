@@ -1,6 +1,6 @@
+### Hi guys, I'm [Hersan](https://github.com/HersanKuang/HersanKuang) 👋
 
-
-### <div align="center">I'm Hersan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+## <div align="center">I'm Hersan, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 <br/>  
