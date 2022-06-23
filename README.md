@@ -1,4 +1,4 @@
-### Hi guys 👋
+<h3 margin-bottom="10px">Hi guys </h3>👋
 ### <div align="left">I'm [Hersan](https://github.com/HersanKuang/HersanKuang), a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
 <br/>
 
@@ -13,6 +13,7 @@
     <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>  
 </div>  
+<br/>
 
 <div align="left">
   <strong>My </strong><img align="center" src="https://profile-counter.glitch.me/HersanKuang/count.svg" /><strong> visitor</strong>
