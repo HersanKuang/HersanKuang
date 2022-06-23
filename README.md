@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 **My** ![Visitor Count](https://profile-counter.glitch.me/HersanKuang/count.svg) **visitor**
 
-<a href="https://github.com/HersanKuang">
-  <strong>My</strong> <img align="center" src="https://profile-counter.glitch.me/HersanKuang/count.svg" /> <strong>visitor</strong>
+<a href="#">
+  <strong>My</strong>nbsp;<img align="center" src="https://profile-counter.glitch.me/HersanKuang/count.svg" />nbsp;<strong>visitor</strong>
 </a>
 
 <a href="https://github.com/HersanKuang">
