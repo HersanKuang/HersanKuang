@@ -35,10 +35,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50"/>
 </p>
 <br/>  
-<a>
+<a href="https://github.com/HersanKuang">
   <img height="176px" align="center" src="https://stats4github.vercel.app/api?username=HersanKuang&show_icons=true&theme=tokyonight" />
  </a>
-<a>
+<a href="https://github.com/HersanKuang">
   <img height="176px" align="center" src="https://stats4github.vercel.app/api/top-langs/?username=HersanKuang&layout=compact&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </a>
 <br/>
