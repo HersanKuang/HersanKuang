@@ -1,22 +1,6 @@
 ## Hi guys, I'm [Hersan](https://github.com/HersanKuang/HersanKuang) 👋
 ### <div align="left">I am a full-time front-end developer 👨‍💻 working from 2021 🚀</div>
 
-## :feet: Connect with me
-<div align="left">
-  <a href="https://github.com/HersanKuang" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/Kuanghexian" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.facebook.com/hersanfackbook" target="_blank">
-    <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://hersan.cn/WeChat/WeChat_HersanKuang.jpg" target="_blank">
-    <img src=https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-  </a>
-</div>
-
 ## :dart: My Skill Set
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" />
