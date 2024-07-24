@@ -1,5 +1,5 @@
 ## Hi guys, I'm [Hersan](https://github.com/HersanKuang/HersanKuang) 👋
-### <div align="left">I am a full-time front-end developer 👨‍💻 working from 2021 🚀</div>
+### <div align="left">I am a full stack developer 👨‍💻 with three years of work experience 🚀</div>
 
 ## :dart: My Skill Set
 <p align="left">
